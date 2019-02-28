@@ -1,0 +1,26 @@
+input{
+ display:flex;   
+ width: 35%;
+ display: flex;
+ margin: 20px;
+ border: 5px solid black;
+}
+h1{
+ font-family: 'Roboto', sans-serif;   
+}
+p{
+ font-family: 'Padauk', sans-serif;   
+}
+.fortune{
+ font-family: 'Oswald', sans-serif;   
+}
+body{
+ justify-content: center;   
+
+}
+img{
+ width:300px;   
+}
+.cake{
+ display: none;   
+}
